@@ -1,0 +1,7 @@
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\bin\Debug\Encoder-Decoder.exe.config
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\bin\Debug\Encoder-Decoder.exe
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\bin\Debug\Encoder-Decoder.pdb
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\obj\Debug\Encoder-Decoder.csproj.AssemblyReference.cache
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\obj\Debug\Encoder-Decoder.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\obj\Debug\Encoder-Decoder.exe
+D:\Visual Studio\Encoder-Decoder\Encoder-Decoder\obj\Debug\Encoder-Decoder.pdb
